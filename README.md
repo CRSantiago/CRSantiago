@@ -20,5 +20,5 @@
 - 💬 Ask me about creating a clean, maintainable React component structure and architecture. I love discussing component design and state management!
 - 📫 How to reach me: [Email Me](mailto:chrisantiago217@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not exactly novel but I'm a music enthusiast! Whether it's discovering new genres, collecting vinyl records, or attending live concerts, music is life. Coming up: INZO, Sleep Token, Hozier
+- ⚡ Fun fact: Not exactly novel but I'm a music enthusiast! Whether it's discovering new genres, collecting vinyl records, or attending live concerts, music is life. Coming up: Sleep Token, Hozier
 
