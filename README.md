@@ -14,11 +14,11 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,vscode)](https://skillicons.dev)
 
-- 🔭 I’m currently working on analytics service to [OpenDoors](https://github.com/CRSantiago/OpenDoors)
-- 🌱 I’m currently learning common design patterns to solve complex programming problems, aiming to write more efficient and maintainable code. 
+- 🔭 I’m working on improving my current organization's automation processes.
+- 🌱 I’m currently learning Rust :crab:
 - 👯 I’m looking to collaborate on projects prioritizing mental health awareness, especially those leveraging technology to provide support and resources.
 - 💬 Ask me about creating a clean, maintainable React component structure and architecture. I love discussing component design and state management!
 - 📫 How to reach me: [Email Me](mailto:chrisantiago217@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Not exactly novel but I'm a music enthusiast! Whether it's discovering new genres, collecting vinyl records, or attending live concerts, music is life. Coming up: Austin City Limits?
+- ⚡ Fun fact: Not exactly novel but I'm a music enthusiast! Whether it's discovering new genres, collecting vinyl records, or attending live concerts, music is life. Coming up: Good Kid, Spiritbox
 
